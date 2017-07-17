@@ -1,0 +1,1 @@
+Drupdate test with subdirectory
