@@ -1,0 +1,10 @@
+# Drupdate options
+
+# Uncomment to have drupdate watch for security updates only:
+#security_only: true
+
+# Ignore some modules or themes
+ignore: [ds]
+
+# Merge the changes automatically in the repository instead of doing a Pull Request
+#merge_automatically: true
