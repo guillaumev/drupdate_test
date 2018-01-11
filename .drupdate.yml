@@ -4,5 +4,5 @@
 #security_only: true
 
 # Ignore some modules or themes
-ignore: [ds]
+#ignore: [ds]
 
