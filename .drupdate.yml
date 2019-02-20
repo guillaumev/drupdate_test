@@ -1,7 +1,7 @@
 # Drupdate options
 
 # Uncomment to have drupdate watch for security updates only:
-#security_only: true
+security_only: true
 
 # Ignore some modules or themes
 #ignore: [ds]
